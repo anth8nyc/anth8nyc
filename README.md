@@ -7,7 +7,7 @@ Full-Stack Web Developer | University of Texas at Dallas | Southern Methodist Un
 - 🤔 I’m currently working on perfecting a knowledge of Angular.js
 - 🌱 I’m currently learning Python and Angular
 - 😄 I love the outdoors, movies, and music more than just about everything
-- 💬 I’m looking to collaborate on, for help with, or help with anything– reach out!
+- 💬 I’m looking to collaborate on, for help with, or to help with anything I can– reach out!
 
 ### Connect:
 - 👨🏽‍💻 [LinkedIn](https://www.linkedin.com/in/anth8nyc/) 
