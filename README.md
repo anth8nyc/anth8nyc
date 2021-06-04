@@ -1,16 +1,18 @@
-### Hi there 👋
+### It's nice to meet you. 👋
 
-<!--
-**anth8nyc/anth8nyc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Web Developer 
+University of Texas at Dallas | Southern Methodist University
 
-Here are some ideas to get you started:
+## About me 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏡 I'm from Richardson, TX
+- 🔭 I'm interested in AI and computational epistemology
+- 🤔 I’m currently working on perfecting a knowledge of Angular.js
+- 🌱 I’m currently learning Python and Angular
+- 😄 I love the outdoors, movies, and music more than just about everything
+- 💬 I’m looking to collaborate on, for help with, or help with anything– reach out!
+
+## Connect:
+- 👨🏽‍💻 [LinkedIn](https://www.linkedin.com/in/anth8nyc/) | 
+- 💼 [Portfolio](https://anth8nyc.github.io/acportfolio/)
+- 📫 Or emailing me at anth8nyc@gmail.com  works too.
