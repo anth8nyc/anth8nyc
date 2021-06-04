@@ -1,9 +1,9 @@
-### It's nice to meet you. 👋
+### It's nice to meet you. 👋 🤓
 
 Full-Stack Web Developer 
 University of Texas at Dallas | Southern Methodist University
 
-## About me 
+## About me 🥸
 
 - 🏡 I'm from Richardson, TX
 - 🔭 I'm interested in AI and computational epistemology
@@ -13,6 +13,6 @@ University of Texas at Dallas | Southern Methodist University
 - 💬 I’m looking to collaborate on, for help with, or help with anything– reach out!
 
 ## Connect:
-- 👨🏽‍💻 [LinkedIn](https://www.linkedin.com/in/anth8nyc/) | 
+- 👨🏽‍💻 [LinkedIn](https://www.linkedin.com/in/anth8nyc/) 
 - 💼 [Portfolio](https://anth8nyc.github.io/acportfolio/)
-- 📫 Or emailing me at anth8nyc@gmail.com  works too.
+- 📫 Emailing me at anthonycastillo821@gmail.com or anth8nyc@gmail.com works too.
